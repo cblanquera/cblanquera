@@ -16,7 +16,7 @@ Some things I'm into include the following.
 
 - [Incept](https://github.com/inceptjs) is a full stack React serverless platform. I'm open for help and contributors! 👯
 - [Virtual Modules](https://github.com/cblanquera/virtual_modules) lets you create and modify files in a way that node treats them as if they were physically presented in the file system.
-- [Emit RPC](https://github.com/cblanquera/emitrpc) is a new way to fetch data for server and client. It is an event emitter implementation for the JSON-RPC 2.0 Specification
+- [Mintpress](https://github.com/cblanquera/mintpress) is my implementation of the ERC721 Non-Fungible Token *(NFT)* standard. Compatible is Rarible, Mintable, OpenSea. Can be deployed onto any Ethreum Layer 2 including Polygon and Binance Smart Chain.
 
 #### 🎉 Fun Projects 🎉
 
