@@ -32,4 +32,8 @@ With over 15 years building desktop, native mobile and web in e-commerce, fin te
 
 <img src="https://user-images.githubusercontent.com/120378/138542123-de82b109-c8cf-4a22-b6e8-ffcb3da9c468.png" width="16" /> [WeRemote](https://weremote.com/) is a remote tech venture builder.
 
+<img src="https://user-images.githubusercontent.com/120378/138542110-2fb78f6e-a134-4224-addc-02898c0d1abc.png" width="16" /> [GRY.PH](https://gry.ph/) is an open clothing brand for geeks, gamers, startups and underground cultures.
+
+<img src="https://avatars.githubusercontent.com/u/79889447?s=200&v=4" /> [Serenade](https://serenade.co/) is a music NFT marketplace with their own protocol.
+
 <img src="https://avatars.githubusercontent.com/u/96587413?s=200&v=4" width="16" /> [Gratitude Gang](https://www.gratitudegang.io/) is the World's first NFT powered by Gratitude focusing on health and wellness and disrupting charities in the Web3 space.
