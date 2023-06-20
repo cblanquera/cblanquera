@@ -1,21 +1,21 @@
 ### Hi there 👋
 
-Hello welcome to my spaghetti code! I'm Chris, founder of Openovate Labs and co-founder of galleon.ph. Both have been acquired in 2017. Most people know me for being an entreprenuer and startup mentor, but my real passion is coding. I love to build frameworks, blockchain, web3 and code up a lot of experiments. 
+Hello welcome to my spaghetti code! I'm Chris, former founder of Openovate Labs and co-founder of galleon.ph. Both have been acquired in 2017. Most people know me for being an entreprenuer and startup mentor, but my real passion is coding. I love to build frameworks, blockchain, web3 and code up a lot of experiments. I am the current CTO of [shoppable.ph](https://github.com/ShoppablePH/)
 
 #### ✨ Interests ✨
 
 Some things I'm into include the following.
 
  - Smart Contracts; Tokens, NFTs; Ethereum Solidity
- - Serverless Tech
- - Artificial Intellegence; Tensorflow
+ - Layer 2 Cloud (Serverless, No/Low Code)
+ - Artificial Intellegence (Tensorflow, GPT)
  - Node, React
- - PHP8, MySQL8
 
 #### 🔭 Active Projects 🔭
 
-- [ERCX](https://github.com/cblanquera/ercx) - Smart contract experients and open source implementations.
-- [ERC721B](https://github.com/badbabybearbots/erc721b) - An improvement on the ERC721A implementation.
+- [Incept](https://github.com/inceptjs) - A low-code framework written in TS/React.
+- [FRUI](https://github.com/cblanquera/frui) - A collection of free vanilla react and tailwind components, fields and output formats written in typescript.
+- [r22n](https://github.com/cblanquera/r22n) - ReactInternationalization - A zero-configuration language translation interface for react written in typescript.
 
 #### 🎉 Fun Projects 🎉
 
@@ -30,10 +30,8 @@ Some things I'm into include the following.
 
 With over 15 years building desktop, native mobile and web in e-commerce, fin tech, 3PL, blockchain and in projects with Zapops, Verizon, Comcast, AT&T, Autodesk, E-bay, Nordstrom, Globe Telecom, Smart, LBC and many more, I like to work with startups fulfill their destiny.
 
-<img src="https://user-images.githubusercontent.com/120378/138542123-de82b109-c8cf-4a22-b6e8-ffcb3da9c468.png" width="16" /> [WeRemote](https://weremote.com/) is a remote tech venture builder.
+<img src="https://avatars.githubusercontent.com/u/96276906?s=64&v=4" width="16" /> [Shoppable](https://shoppable.ph/) is a B2B marketplace.
 
-<img src="https://user-images.githubusercontent.com/120378/138542110-2fb78f6e-a134-4224-addc-02898c0d1abc.png" width="16" /> [GRY.PH](https://gry.ph/) is an open clothing brand for geeks, gamers, startups and underground cultures.
+<img src="https://user-images.githubusercontent.com/120378/138542123-de82b109-c8cf-4a22-b6e8-ffcb3da9c468.png" width="16" /> [WeRemote](https://weremote.com/) is a space for remote workers.
 
 <img src="https://avatars.githubusercontent.com/u/79889447?s=200&v=4" width="16" /> [Serenade](https://serenade.co/) is a music NFT marketplace with their own protocol.
-
-<img src="https://avatars.githubusercontent.com/u/96587413?s=200&v=4" width="16" /> [Gratitude Gang](https://www.gratitudegang.io/) is the World's first NFT powered by Gratitude focusing on health and wellness and disrupting charities in the Web3 space.
