@@ -6,6 +6,7 @@ Hello welcome to my spaghetti code! I'm Chris, former founder of Openovate Labs 
 
 Some things I'm into include the following.
 
+ - Building frameworks
  - Smart Contracts; Tokens, NFTs; Ethereum Solidity
  - Layer 2 Cloud (Serverless, No/Low Code)
  - Artificial Intellegence (Tensorflow, GPT)
@@ -13,7 +14,11 @@ Some things I'm into include the following.
 
 #### 🔭 Active Projects 🔭
 
-- [Incept](https://github.com/inceptjs) - A low-code framework written in TS/React.
+- [Idea](https://github.com/stackpress/idea) - Transforms ideas into reality
+- [Ingest](https://github.com/stackpress/ingest) - A server/less framework.
+- [Inquire](https://github.com/stackpress/inquire) - A Generic typed SQL build.
+- [Reactus](https://github.com/stackpress/reactus) - A reactive react template engine built on top of Vite.
+- [Stackpress](https://github.com/stackpress/stackpress) - A fullstack content management framework.
 - [FRUI](https://github.com/cblanquera/frui) - A collection of free vanilla react and tailwind components, fields and output formats written in typescript.
 - [r22n](https://github.com/cblanquera/r22n) - ReactInternationalization - A zero-configuration language translation interface for react written in typescript.
 
@@ -31,7 +36,5 @@ Some things I'm into include the following.
 With over 15 years building desktop, native mobile and web in e-commerce, fin tech, 3PL, blockchain and in projects with Zapops, Verizon, Comcast, AT&T, Autodesk, E-bay, Nordstrom, Globe Telecom, Smart, LBC and many more, I like to work with startups fulfill their destiny.
 
 <img src="https://avatars.githubusercontent.com/u/96276906?s=64&v=4" width="16" /> [Shoppable](https://shoppable.ph/) is a B2B marketplace.
-
-<img src="https://user-images.githubusercontent.com/120378/138542123-de82b109-c8cf-4a22-b6e8-ffcb3da9c468.png" width="16" /> [WeRemote](https://weremote.com/) is a space for remote workers.
 
 <img src="https://avatars.githubusercontent.com/u/79889447?s=200&v=4" width="16" /> [Serenade](https://serenade.co/) is a music NFT marketplace with their own protocol.
